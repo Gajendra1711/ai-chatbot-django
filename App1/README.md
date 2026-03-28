@@ -24,8 +24,11 @@ This is an AI-powered customer support chatbot built using Django and OpenAI API
    python manage.py runserver
 
 ## 📷 Screenshots
-images/chat1.png
-images/chat2.png
+## 📸 Screenshots
+
+![Chat UI](images/chat1.png)
+
+![Conversation](images/chat2.png)
 
 ## 📌 Future Improvements
 - Store chat history
